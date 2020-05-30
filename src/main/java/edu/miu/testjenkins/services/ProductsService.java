@@ -12,6 +12,7 @@ public class ProductsService {
         List<String> products = new ArrayList<>();
         products.add("p1");
         products.add("p2");
+        return products;
 
     }
 }
